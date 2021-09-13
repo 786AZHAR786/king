@@ -110,9 +110,9 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 LuCky
 
-Poject [MAFIABOT](https://github.com/H1M4N5HU0P/MAFIA-BOT) is free software: you can redistribute it and/or modify
+Poject [lucky ](https://github.com/khaalT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
